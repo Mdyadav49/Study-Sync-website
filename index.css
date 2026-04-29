@@ -28,6 +28,10 @@ body {
     text-align: center;
     background-color: var(--background-color);
 }
+body::-webkit-scrollbar {
+  display: none;
+}
+
 
 /* Navbar section */
 
