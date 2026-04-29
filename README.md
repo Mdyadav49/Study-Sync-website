@@ -37,8 +37,9 @@ Seamless Learning for Brighter Futures — A modern platform designed to make le
 ## 📸 Preview
 &nbsp;
 <p align="center">
-  <img src="https://placehold.co/500x300/6366F1/FFFFFF?text=Home" width="48%"/>
-  <img src="https://placehold.co/500x300/1a1a2e/FFFFFF?text=Details" width="48%"/>
+  <img src="./Preview_images/header.png" width="48%"/>
+  <img src="./Preview_images/hero.png" width="48%"/>
+  <img src="./Preview_images/footer.png" width="90%"/>
 </p>
 &nbsp;
 
